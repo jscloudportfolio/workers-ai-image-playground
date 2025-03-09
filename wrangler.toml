@@ -13,4 +13,4 @@ binding = "BUCKET"
 
 [vars]
 CLOUDFLARE_ACCOUNT_ID = "dc56444c4c955a1653106ccf997c1067"
-main = "src/package.json"
+
